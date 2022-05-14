@@ -1,5 +1,6 @@
 # ShopingAPI
 To run this app on your local machine use command  npm start
+
 This is Shoping app Api using nodejs which contain following API'S
 1) user registration and login  API
 2) verification using JWT token 
